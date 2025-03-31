@@ -75,18 +75,6 @@ npm run dev
 
 ---
 
-## **📸 Screenshots**
-
-
-
----
-
-## **📌 TODOs**
-
--
-
----
-
 ## **🤝 Contributing**
 
 Contributions are welcome! Feel free to submit a pull request.
